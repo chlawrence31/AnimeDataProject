@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_AnimeDataProject: phony || AnimeDataProj
 build CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.obj: CXX_COMPILER__AnimeDataProject_unscanned_Debug C$:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_AnimeDataProject
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\AnimeDataProject.dir\AnimeDataProject_autogen\mocs_compilation.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/include -isystem C:/Qt/6.6.0/mingw_64/include/QtCore -isystem C:/Qt/6.6.0/mingw_64/include -isystem C:/Qt/6.6.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.0/mingw_64/include/QtGui -isystem C:/Qt/6.6.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\AnimeDataProject.dir
   OBJECT_FILE_DIR = CMakeFiles\AnimeDataProject.dir\AnimeDataProject_autogen
@@ -60,7 +60,7 @@ build CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.
 build CMakeFiles/AnimeDataProject.dir/main.cpp.obj: CXX_COMPILER__AnimeDataProject_unscanned_Debug C$:/Users/mallo/CLionProjects/AnimeDataProject/main.cpp || cmake_object_order_depends_target_AnimeDataProject
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\AnimeDataProject.dir\main.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/include -isystem C:/Qt/6.6.0/mingw_64/include/QtCore -isystem C:/Qt/6.6.0/mingw_64/include -isystem C:/Qt/6.6.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.0/mingw_64/include/QtGui -isystem C:/Qt/6.6.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\AnimeDataProject.dir
   OBJECT_FILE_DIR = CMakeFiles\AnimeDataProject.dir
@@ -68,7 +68,7 @@ build CMakeFiles/AnimeDataProject.dir/main.cpp.obj: CXX_COMPILER__AnimeDataProje
 build CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj: CXX_COMPILER__AnimeDataProject_unscanned_Debug C$:/Users/mallo/CLionProjects/AnimeDataProject/mainwindow.cpp || cmake_object_order_depends_target_AnimeDataProject
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\AnimeDataProject.dir\mainwindow.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/include -isystem C:/Qt/6.6.0/mingw_64/include/QtCore -isystem C:/Qt/6.6.0/mingw_64/include -isystem C:/Qt/6.6.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.0/mingw_64/include/QtGui -isystem C:/Qt/6.6.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\AnimeDataProject.dir
   OBJECT_FILE_DIR = CMakeFiles\AnimeDataProject.dir
@@ -76,7 +76,7 @@ build CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj: CXX_COMPILER__AnimeDat
 build CMakeFiles/AnimeDataProject.dir/anime.cpp.obj: CXX_COMPILER__AnimeDataProject_unscanned_Debug C$:/Users/mallo/CLionProjects/AnimeDataProject/anime.cpp || cmake_object_order_depends_target_AnimeDataProject
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\AnimeDataProject.dir\anime.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/include -isystem C:/Qt/6.6.0/mingw_64/include/QtCore -isystem C:/Qt/6.6.0/mingw_64/include -isystem C:/Qt/6.6.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.0/mingw_64/include/QtGui -isystem C:/Qt/6.6.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\AnimeDataProject.dir
   OBJECT_FILE_DIR = CMakeFiles\AnimeDataProject.dir
@@ -84,7 +84,7 @@ build CMakeFiles/AnimeDataProject.dir/anime.cpp.obj: CXX_COMPILER__AnimeDataProj
 build CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj: CXX_COMPILER__AnimeDataProject_unscanned_Debug C$:/Users/mallo/CLionProjects/AnimeDataProject/ReadData.cpp || cmake_object_order_depends_target_AnimeDataProject
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\AnimeDataProject.dir\ReadData.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/include -isystem C:/Qt/6.6.0/mingw_64/include/QtCore -isystem C:/Qt/6.6.0/mingw_64/include -isystem C:/Qt/6.6.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.0/mingw_64/include/QtGui -isystem C:/Qt/6.6.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\AnimeDataProject.dir
   OBJECT_FILE_DIR = CMakeFiles\AnimeDataProject.dir
@@ -92,7 +92,7 @@ build CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj: CXX_COMPILER__AnimeDataP
 build CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj: CXX_COMPILER__AnimeDataProject_unscanned_Debug C$:/Users/mallo/CLionProjects/AnimeDataProject/RecommendAnime.cpp || cmake_object_order_depends_target_AnimeDataProject
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\AnimeDataProject.dir\RecommendAnime.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/include -isystem C:/Qt/6.6.0/mingw_64/include/QtCore -isystem C:/Qt/6.6.0/mingw_64/include -isystem C:/Qt/6.6.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.0/mingw_64/include/QtGui -isystem C:/Qt/6.6.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\AnimeDataProject.dir
   OBJECT_FILE_DIR = CMakeFiles\AnimeDataProject.dir
@@ -109,7 +109,7 @@ build AnimeDataProject.exe: CXX_EXECUTABLE_LINKER__AnimeDataProject_Debug CMakeF
   FLAGS = -g
   LINK_LIBRARIES = C:/Qt/6.6.0/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.6.0/mingw_64/lib/libQt6Gui.a  C:/Qt/6.6.0/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\AnimeDataProject.dir
-  POST_BUILD = cmd.exe /C "cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E make_directory C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/plugins/platforms/ && cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../plugins/platforms/qwindows.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/plugins/platforms/ && cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../bin/Qt6Core.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug && cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../bin/Qt6Gui.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug && cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../bin/Qt6Widgets.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug"
+  POST_BUILD = cmd.exe /C "cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy /Users/mallorysilva/Qt/6.6.0/macos/lib/cmake;C:QT/6.6/mingw_64/lib/cmake/../../bin/Qt6Core.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug && cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy /Users/mallorysilva/Qt/6.6.0/macos/lib/cmake;C:QT/6.6/mingw_64/lib/cmake/../../bin/Qt6Gui.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug && cd /D C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy /Users/mallorysilva/Qt/6.6.0/macos/lib/cmake;C:QT/6.6/mingw_64/lib/cmake/../../bin/Qt6Widgets.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug"
   PRE_LINK = cd .
   TARGET_FILE = AnimeDataProject.exe
   TARGET_IMPLIB = libAnimeDataProject.dll.a
@@ -186,6 +186,11 @@ build AnimeDataProject: phony AnimeDataProject.exe
 # Folder: C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
 
 build all: phony AnimeDataProject.exe
+
+# =============================================================================
+# Unknown Build Time Dependencies.
+# Tell Ninja that they may appear as side effects of build rules
+# otherwise ordered by order-only dependencies.
 
 # =============================================================================
 # Built-in targets
