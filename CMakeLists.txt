@@ -16,9 +16,15 @@ find_package(Qt6 COMPONENTS
         REQUIRED)
 
 add_executable(AnimeDataProject main.cpp
+        mainwindow.ui
         mainwindow.cpp
         mainwindow.h
-        mainwindow.ui)
+        anime.cpp
+        anime.h
+        ReadData.cpp
+        ReadData.h
+        RecommendAnime.cpp
+        RecommendAnime.h)
 target_link_libraries(AnimeDataProject
         Qt::Core
         Qt::Gui
