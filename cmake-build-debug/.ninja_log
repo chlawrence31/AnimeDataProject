@@ -1,0 +1,9 @@
+# ninja log v5
+0	1316	1701194769513850506	AnimeDataProject_autogen/timestamp	dcafa2b19044e320
+0	1316	1701194769513850506	AnimeDataProject_autogen/mocs_compilation.cpp	dcafa2b19044e320
+0	1316	1701194769513850506	/Users/mallorysilva/Developer/Learning/SFML/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/timestamp	dcafa2b19044e320
+0	1316	1701194769513850506	/Users/mallorysilva/Developer/Learning/SFML/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/mocs_compilation.cpp	dcafa2b19044e320
+1317	3150	1701194771360924282	CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.o	b7cd82ce8a9a61e0
+1318	3174	1701194771386578715	CMakeFiles/AnimeDataProject.dir/main.cpp.o	9d693ac74e8c4ead
+1319	3205	1701194771418002675	CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.o	63993541f1e5d5ff
+3206	3631	1701194771836873654	AnimeDataProject	3147e9bc2470eb4f
