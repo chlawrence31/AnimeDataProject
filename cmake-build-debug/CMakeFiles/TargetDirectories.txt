@@ -1,0 +1,5 @@
+C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/CMakeFiles/AnimeDataProject.dir
+C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/CMakeFiles/AnimeDataProject_autogen_timestamp_deps.dir
+C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/CMakeFiles/AnimeDataProject_autogen.dir
