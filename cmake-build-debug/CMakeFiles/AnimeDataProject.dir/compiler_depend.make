@@ -1705,6 +1705,9 @@ CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj: C:/Users/mallo/CLionProjects
   C:/Qt/6.6.0/mingw_64/include/QtGui/qinputmethod.h \
   C:/Qt/6.6.0/mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.6.0/mingw_64/include/QtGui/qguiapplication_platform.h \
+  C:/Qt/6.6.0/mingw_64/include/QtWidgets/QCheckBox \
+  C:/Qt/6.6.0/mingw_64/include/QtWidgets/qcheckbox.h \
+  C:/Qt/6.6.0/mingw_64/include/QtWidgets/qabstractbutton.h \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/QLineEdit \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/qlineedit.h \
@@ -1716,6 +1719,8 @@ CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj: C:/Users/mallo/CLionProjects
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/QMenuBar \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/qmenubar.h \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/qmenu.h \
+  C:/Qt/6.6.0/mingw_64/include/QtWidgets/QPushButton \
+  C:/Qt/6.6.0/mingw_64/include/QtWidgets/qpushbutton.h \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/QStatusBar \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/qstatusbar.h \
   C:/Qt/6.6.0/mingw_64/include/QtWidgets/QToolBar \
@@ -2294,6 +2299,8 @@ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h:
 
+C:/Qt/6.6.0/mingw_64/include/QtWidgets/qcheckbox.h:
+
 C:/Qt/6.6.0/mingw_64/include/QtCore/qtaggedpointer.h:
 
 C:/Qt/6.6.0/mingw_64/include/QtCore/qobject.h:
@@ -2365,6 +2372,8 @@ C:/Qt/6.6.0/mingw_64/include/QtCore/qcontainertools_impl.h:
 C:/Qt/6.6.0/mingw_64/include/QtWidgets/qapplication.h:
 
 C:/Qt/6.6.0/mingw_64/include/QtCore/qxptype_traits.h:
+
+C:/Qt/6.6.0/mingw_64/include/QtWidgets/qabstractbutton.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
 
@@ -2484,6 +2493,8 @@ C:/Qt/6.6.0/mingw_64/include/QtGui/qkeysequence.h:
 
 C:/Qt/6.6.0/mingw_64/include/QtGui/qpaintdevice.h:
 
+C:/Qt/6.6.0/mingw_64/include/QtWidgets/QPushButton:
+
 C:/Qt/6.6.0/mingw_64/include/QtCore/qpoint.h:
 
 C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits:
@@ -2600,11 +2611,15 @@ C:/Qt/6.6.0/mingw_64/include/QtCore/qeventloop.h:
 
 C:/Qt/6.6.0/mingw_64/include/QtGui/qguiapplication.h:
 
+C:/Qt/6.6.0/mingw_64/include/QtWidgets/QCheckBox:
+
 C:/Qt/6.6.0/mingw_64/include/QtWidgets/QLineEdit:
 
 C:/Qt/6.6.0/mingw_64/include/QtWidgets/QMenuBar:
 
 C:/Qt/6.6.0/mingw_64/include/QtWidgets/qmenu.h:
+
+C:/Qt/6.6.0/mingw_64/include/QtWidgets/qpushbutton.h:
 
 C:/Qt/6.6.0/mingw_64/include/QtWidgets/QStatusBar:
 

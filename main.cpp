@@ -12,23 +12,14 @@
 
 using namespace std;
 
-void menu(){
 
-    cout << "Enter an option" << endl;
-    cout << "1. Add an Anime" << endl;
-    cout << "2. Show recommendations" << endl;
-    cout << "3. Exit" << endl;
-}
-
-
-// TODO: fix stof error
 
 int main(int argc, char *argv[]) {
 
     QApplication a(argc, argv);
     MainWindow w;
 
-    w.updateRecommendations("hi", "hi", "hi", "hi", "hi");
+
 
 
     w.show();

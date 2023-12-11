@@ -14,6 +14,7 @@ public:
     ReadData data1;
     bool recommendationPrioritizations[3];
     RecommendAnime();
+    vector<Anime *> recommendationList;
     void printAnimeInfo(Anime* anime);
     void printRecommendations(float normalizedEpisodes, float normalizedRating,
                               vector<string> inputtedGenres, vector<Anime *> inputtedAnimes, int numRecommendations);

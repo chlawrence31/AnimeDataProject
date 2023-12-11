@@ -42,7 +42,7 @@ RecommendAnime::printRecommendations(float normalizedEpisodes, float normalizedR
     //recommendationPrioritizations[1] = rating
     //recommendationPrioritizations[2] = episodeCount
 
-    vector<Anime *> recommendationList;
+
     float weight1;
     float weight2;
     float compareWeights;

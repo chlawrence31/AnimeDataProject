@@ -24,8 +24,10 @@ public:
     ~MainWindow();
 
     QLabel* label; // show the input anime that was entered
+    QLabel* invalidLabel;
+    int numInput;
     ReadData data;
-   RecommendAnime recommendations;
+    RecommendAnime recommendations;
 
     vector<Anime*> animeInput;
     void updateRecommendations(string one, string two, string three, string four, string five);
@@ -35,6 +37,7 @@ public:
 private:
     Ui::MainWindow *ui;
     void onReturnPressed();
+    void buttonClicked();
 
 
 
