@@ -25,6 +25,7 @@ int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
     MainWindow w;
 
+    w.updateRecommendations("hi", "hi", "hi", "hi", "hi");
 
     w.show();
     return a.exec();

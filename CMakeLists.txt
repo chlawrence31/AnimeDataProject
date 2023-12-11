@@ -17,7 +17,9 @@ find_package(Qt6 COMPONENTS
 add_executable(AnimeDataProject main.cpp
         mainwindow.cpp
         mainwindow.h
-        mainwindow.ui)
+        mainwindow.ui
+        MyTextEdit.cpp
+        MyTextEdit.h)
 target_link_libraries(AnimeDataProject
         Qt::Core
         Qt::Gui

@@ -22,6 +22,16 @@ void MainWindow::updateRecommendations(string one, string two, string three, str
 
 
 
+    ui->textEdit->setPlaceholderText(QString::fromStdString("Enter Movies Here"));
+
+
+}
+
+void MainWindow::keyPressEvent(QKeyEvent *event) {
+    qDebug() << "Key Pressed: " << (char)event->key();
+    if(event->key() == Qt::Key_U){
+        ui->one->setText(QString::fromStdString("U"));
+    }
 }
 
 
