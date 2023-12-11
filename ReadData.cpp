@@ -4,6 +4,7 @@
 #include <sstream>
 #include <string>
 #include <stack>
+#include <algorithm>
 
 using namespace std;
 
@@ -72,7 +73,7 @@ void ReadData::loadData()
                         std::getline(ss, value, ',');
                     }
 
-                    \
+
 
 
                     // value is sometimes "unknown", in this case, it cannot be converted to an integer
@@ -80,8 +81,9 @@ void ReadData::loadData()
                     std::getline(ss, value, ',');
                     scores.push_back(value);
 
-
                     anime->rating = stof(value);
+
+
 
                     char ch;
 
@@ -120,7 +122,11 @@ void ReadData::loadData()
                     std::getline(ss, value, ',');
                     value.erase(0, value.find_first_not_of(' '));
                     episodes.push_back(value);
+
+
                     anime->episodes = stoi(value);
+
+
 
 
                     if(!twoQuotes){

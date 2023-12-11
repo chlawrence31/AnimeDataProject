@@ -20,16 +20,20 @@ void menu(){
     cout << "3. Exit" << endl;
 }
 
+
+// TODO: fix stof error
+
 int main(int argc, char *argv[]) {
 
     QApplication a(argc, argv);
     MainWindow w;
 
 
+
     w.show();
     return a.exec();
 
-
+/*
     ReadData data;
     data.loadData();
 
@@ -73,11 +77,11 @@ int main(int argc, char *argv[]) {
         else if(input == "2")
         {
 
-            /* if(inputtedAnimes.size() <= 3)
+            *//* if(inputtedAnimes.size() <= 3)
              {
                  cout << "not enough data" << endl;
                  continue;
-             }*/
+             }*//*
             int numRecommendations;
             string response;
             cout << "How many recommendations?" << endl;
@@ -115,7 +119,7 @@ int main(int argc, char *argv[]) {
         {
             cout << "Invalid option" << endl;
         }
-    }
+    }*/
 
 
 

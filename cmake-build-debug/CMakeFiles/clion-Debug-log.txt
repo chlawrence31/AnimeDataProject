@@ -1,5 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_PREFERENCE_PATH=C:/Qt/6.6.0/mingw_64/lib/cmake -G Ninja -S C:\Users\mallo\CLionProjects\AnimeDataProject -B C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug
--- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
--- Configuring done (0.2s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/mallorysilva/Developer/Learning/SFML/AnimeDataProject -B /Users/mallorysilva/Developer/Learning/SFML/AnimeDataProject/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/mallorysilva/Developer/Learning/SFML/AnimeDataProject/cmake-build-debug

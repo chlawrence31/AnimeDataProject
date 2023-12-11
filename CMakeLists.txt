@@ -7,7 +7,7 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
 
-set(CMAKE_PREFIX_PATH "/Users/mallorysilva/Qt/6.6.0/macos/lib/cmake;C:QT/6.6/mingw_64/lib/cmake")
+set(CMAKE_PREFIX_PATH "/Users/mallorysilva/Qt/6.6.0/macos/lib/cmake")
 
 find_package(Qt6 COMPONENTS
         Core
@@ -24,7 +24,8 @@ add_executable(AnimeDataProject main.cpp
         ReadData.cpp
         ReadData.h
         RecommendAnime.cpp
-        RecommendAnime.h)
+        RecommendAnime.h
+        )
 target_link_libraries(AnimeDataProject
         Qt::Core
         Qt::Gui
