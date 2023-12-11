@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.26)
+cmake_minimum_required(VERSION 3.2)
 project(AnimeDataProject)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -6,7 +6,8 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
-set(CMAKE_PREFIX_PATH "C:/Qt/6.6.0/mingw_64/lib/cmake")
+
+set(CMAKE_PREFIX_PATH "/Users/mallorysilva/Qt/6.6.0/macos/lib/cmake")
 
 find_package(Qt6 COMPONENTS
         Core
@@ -15,11 +16,16 @@ find_package(Qt6 COMPONENTS
         REQUIRED)
 
 add_executable(AnimeDataProject main.cpp
+        mainwindow.ui
         mainwindow.cpp
         mainwindow.h
-        mainwindow.ui
-        MyTextEdit.cpp
-        MyTextEdit.h)
+        anime.cpp
+        anime.h
+        ReadData.cpp
+        ReadData.h
+        RecommendAnime.cpp
+        RecommendAnime.h
+        )
 target_link_libraries(AnimeDataProject
         Qt::Core
         Qt::Gui
