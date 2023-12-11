@@ -7,7 +7,10 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
 
-set(CMAKE_PREFIX_PATH "/Users/mallorysilva/Qt/6.6.0/macos/lib/cmake")
+#[[  /Users/mallorysilva/Qt/6.6.0/macos/lib/cmake;  ]]
+
+
+set(CMAKE_PREFIX_PATH "C:/Qt/6.6.0/mingw_64")
 
 find_package(Qt6 COMPONENTS
         Core

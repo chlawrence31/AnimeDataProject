@@ -365,32 +365,32 @@ CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.ob
  C:/Qt/6.6.0/mingw_64/include/QtGui/qcursor.h \
  C:/Qt/6.6.0/mingw_64/include/QtGui/qbitmap.h \
  C:/Qt/6.6.0/mingw_64/include/QtWidgets/qtabwidget.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/QEvent \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qcoreevent.h \
- C:/Qt/6.6.0/mingw_64/include/QtGui/QKeyEvent \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qevent.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qcoreevent.h \
+ C:/Qt/6.6.0/mingw_64/include/QtWidgets/QLabel \
+ C:/Qt/6.6.0/mingw_64/include/QtWidgets/qlabel.h \
+ C:/Qt/6.6.0/mingw_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.6.0/mingw_64/include/QtGui/qpicture.h \
  C:/Qt/6.6.0/mingw_64/include/QtCore/qiodevice.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qpointer.h \
+ C:/Qt/6.6.0/mingw_64/include/QtGui/qtextdocument.h \
  C:/Qt/6.6.0/mingw_64/include/QtCore/qurl.h \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qeventpoint.h \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qvector2d.h \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qvectornd.h \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qpointingdevice.h \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qinputdevice.h \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qscreen.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/QList \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qlist.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/QObject \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qobject.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/QRect \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qrect.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/QSize \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qsize.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/QSizeF \
- C:/Qt/6.6.0/mingw_64/include/QtGui/QTransform \
- C:/Qt/6.6.0/mingw_64/include/QtGui/qtransform.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qnativeinterface.h \
- C:/Qt/6.6.0/mingw_64/include/QtCore/QDebug \
- C:/Qt/6.6.0/mingw_64/include/QtCore/qdebug.h \
+ C:/Users/mallo/CLionProjects/AnimeDataProject/RecommendAnime.h \
+ C:/Users/mallo/CLionProjects/AnimeDataProject/ReadData.h \
+ C:/Users/mallo/CLionProjects/AnimeDataProject/Anime.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+ C:/Qt/6.6.0/mingw_64/include/QtGui/qtextcursor.h \
+ C:/Qt/6.6.0/mingw_64/include/QtGui/qtextformat.h \
+ C:/Qt/6.6.0/mingw_64/include/QtGui/qpen.h \
+ C:/Qt/6.6.0/mingw_64/include/QtGui/qtextoption.h \
  C:/Qt/6.6.0/mingw_64/include/QtCore/qtmochelpers.h

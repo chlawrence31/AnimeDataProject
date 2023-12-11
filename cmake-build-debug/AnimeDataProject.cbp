@@ -124,10 +124,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/MyTextEdit.cpp">
+		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/ReadData.cpp">
 			<Option target="AnimeDataProject"/>
 		</Unit>
-		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/MyTextEdit.h">
+		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/ReadData.h">
+			<Option target="AnimeDataProject"/>
+		</Unit>
+		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/RecommendAnime.cpp">
+			<Option target="AnimeDataProject"/>
+		</Unit>
+		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/RecommendAnime.h">
+			<Option target="AnimeDataProject"/>
+		</Unit>
+		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/anime.cpp">
+			<Option target="AnimeDataProject"/>
+		</Unit>
+		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/anime.h">
 			<Option target="AnimeDataProject"/>
 		</Unit>
 		<Unit filename="C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/include/ui_mainwindow.h">

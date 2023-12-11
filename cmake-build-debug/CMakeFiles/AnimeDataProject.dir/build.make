@@ -113,27 +113,59 @@ CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mallo\CLionProjects\AnimeDataProject\mainwindow.cpp -o CMakeFiles\AnimeDataProject.dir\mainwindow.cpp.s
 
-CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj: CMakeFiles/AnimeDataProject.dir/flags.make
-CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj: CMakeFiles/AnimeDataProject.dir/includes_CXX.rsp
-CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj: C:/Users/mallo/CLionProjects/AnimeDataProject/MyTextEdit.cpp
-CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj: CMakeFiles/AnimeDataProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj -MF CMakeFiles\AnimeDataProject.dir\MyTextEdit.cpp.obj.d -o CMakeFiles\AnimeDataProject.dir\MyTextEdit.cpp.obj -c C:\Users\mallo\CLionProjects\AnimeDataProject\MyTextEdit.cpp
+CMakeFiles/AnimeDataProject.dir/anime.cpp.obj: CMakeFiles/AnimeDataProject.dir/flags.make
+CMakeFiles/AnimeDataProject.dir/anime.cpp.obj: CMakeFiles/AnimeDataProject.dir/includes_CXX.rsp
+CMakeFiles/AnimeDataProject.dir/anime.cpp.obj: C:/Users/mallo/CLionProjects/AnimeDataProject/anime.cpp
+CMakeFiles/AnimeDataProject.dir/anime.cpp.obj: CMakeFiles/AnimeDataProject.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AnimeDataProject.dir/anime.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AnimeDataProject.dir/anime.cpp.obj -MF CMakeFiles\AnimeDataProject.dir\anime.cpp.obj.d -o CMakeFiles\AnimeDataProject.dir\anime.cpp.obj -c C:\Users\mallo\CLionProjects\AnimeDataProject\anime.cpp
 
-CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mallo\CLionProjects\AnimeDataProject\MyTextEdit.cpp > CMakeFiles\AnimeDataProject.dir\MyTextEdit.cpp.i
+CMakeFiles/AnimeDataProject.dir/anime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnimeDataProject.dir/anime.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mallo\CLionProjects\AnimeDataProject\anime.cpp > CMakeFiles\AnimeDataProject.dir\anime.cpp.i
 
-CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mallo\CLionProjects\AnimeDataProject\MyTextEdit.cpp -o CMakeFiles\AnimeDataProject.dir\MyTextEdit.cpp.s
+CMakeFiles/AnimeDataProject.dir/anime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnimeDataProject.dir/anime.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mallo\CLionProjects\AnimeDataProject\anime.cpp -o CMakeFiles\AnimeDataProject.dir\anime.cpp.s
+
+CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj: CMakeFiles/AnimeDataProject.dir/flags.make
+CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj: CMakeFiles/AnimeDataProject.dir/includes_CXX.rsp
+CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj: C:/Users/mallo/CLionProjects/AnimeDataProject/ReadData.cpp
+CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj: CMakeFiles/AnimeDataProject.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj -MF CMakeFiles\AnimeDataProject.dir\ReadData.cpp.obj.d -o CMakeFiles\AnimeDataProject.dir\ReadData.cpp.obj -c C:\Users\mallo\CLionProjects\AnimeDataProject\ReadData.cpp
+
+CMakeFiles/AnimeDataProject.dir/ReadData.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnimeDataProject.dir/ReadData.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mallo\CLionProjects\AnimeDataProject\ReadData.cpp > CMakeFiles\AnimeDataProject.dir\ReadData.cpp.i
+
+CMakeFiles/AnimeDataProject.dir/ReadData.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnimeDataProject.dir/ReadData.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mallo\CLionProjects\AnimeDataProject\ReadData.cpp -o CMakeFiles\AnimeDataProject.dir\ReadData.cpp.s
+
+CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj: CMakeFiles/AnimeDataProject.dir/flags.make
+CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj: CMakeFiles/AnimeDataProject.dir/includes_CXX.rsp
+CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj: C:/Users/mallo/CLionProjects/AnimeDataProject/RecommendAnime.cpp
+CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj: CMakeFiles/AnimeDataProject.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj -MF CMakeFiles\AnimeDataProject.dir\RecommendAnime.cpp.obj.d -o CMakeFiles\AnimeDataProject.dir\RecommendAnime.cpp.obj -c C:\Users\mallo\CLionProjects\AnimeDataProject\RecommendAnime.cpp
+
+CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mallo\CLionProjects\AnimeDataProject\RecommendAnime.cpp > CMakeFiles\AnimeDataProject.dir\RecommendAnime.cpp.i
+
+CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mallo\CLionProjects\AnimeDataProject\RecommendAnime.cpp -o CMakeFiles\AnimeDataProject.dir\RecommendAnime.cpp.s
 
 # Object files for target AnimeDataProject
 AnimeDataProject_OBJECTS = \
 "CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/AnimeDataProject.dir/main.cpp.obj" \
 "CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj" \
-"CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj"
+"CMakeFiles/AnimeDataProject.dir/anime.cpp.obj" \
+"CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj" \
+"CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj"
 
 # External object files for target AnimeDataProject
 AnimeDataProject_EXTERNAL_OBJECTS =
@@ -141,7 +173,9 @@ AnimeDataProject_EXTERNAL_OBJECTS =
 AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.obj
 AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/main.cpp.obj
 AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj
-AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj
+AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/anime.cpp.obj
+AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj
+AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj
 AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/build.make
 AnimeDataProject.exe: C:/Qt/6.6.0/mingw_64/lib/libQt6Widgets.a
 AnimeDataProject.exe: C:/Qt/6.6.0/mingw_64/lib/libQt6Gui.a
@@ -149,13 +183,13 @@ AnimeDataProject.exe: C:/Qt/6.6.0/mingw_64/lib/libQt6Core.a
 AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/linkLibs.rsp
 AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/objects1.rsp
 AnimeDataProject.exe: CMakeFiles/AnimeDataProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable AnimeDataProject.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\mallo\CLionProjects\AnimeDataProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable AnimeDataProject.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AnimeDataProject.dir\link.txt --verbose=$(VERBOSE)
 	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E make_directory C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/plugins/platforms/
-	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../plugins/platforms/qwindows.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/plugins/platforms/
-	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../bin/Qt6Core.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
-	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../bin/Qt6Gui.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
-	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/lib/cmake/../../bin/Qt6Widgets.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
+	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/plugins/platforms/qwindows.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/plugins/platforms/
+	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/bin/Qt6Core.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
+	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/bin/Qt6Gui.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
+	"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.6.0/mingw_64/bin/Qt6Widgets.dll C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug
 
 # Rule to build all files generated by this target.
 CMakeFiles/AnimeDataProject.dir/build: AnimeDataProject.exe

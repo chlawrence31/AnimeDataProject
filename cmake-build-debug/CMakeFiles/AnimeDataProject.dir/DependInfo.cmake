@@ -9,7 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/mallo/CLionProjects/AnimeDataProject/cmake-build-debug/AnimeDataProject_autogen/mocs_compilation.cpp" "CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.obj.d"
-  "C:/Users/mallo/CLionProjects/AnimeDataProject/MyTextEdit.cpp" "CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj" "gcc" "CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj.d"
+  "C:/Users/mallo/CLionProjects/AnimeDataProject/ReadData.cpp" "CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj" "gcc" "CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj.d"
+  "C:/Users/mallo/CLionProjects/AnimeDataProject/RecommendAnime.cpp" "CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj" "gcc" "CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj.d"
+  "C:/Users/mallo/CLionProjects/AnimeDataProject/anime.cpp" "CMakeFiles/AnimeDataProject.dir/anime.cpp.obj" "gcc" "CMakeFiles/AnimeDataProject.dir/anime.cpp.obj.d"
   "C:/Users/mallo/CLionProjects/AnimeDataProject/main.cpp" "CMakeFiles/AnimeDataProject.dir/main.cpp.obj" "gcc" "CMakeFiles/AnimeDataProject.dir/main.cpp.obj.d"
   "C:/Users/mallo/CLionProjects/AnimeDataProject/mainwindow.cpp" "CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj" "gcc" "CMakeFiles/AnimeDataProject.dir/mainwindow.cpp.obj.d"
   )

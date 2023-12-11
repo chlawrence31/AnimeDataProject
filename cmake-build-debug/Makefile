@@ -165,29 +165,77 @@ AnimeDataProject_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/AnimeDataProject_autogen/mocs_compilation.cpp.s
 .PHONY : AnimeDataProject_autogen/mocs_compilation.cpp.s
 
-MyTextEdit.obj: MyTextEdit.cpp.obj
-.PHONY : MyTextEdit.obj
+ReadData.obj: ReadData.cpp.obj
+.PHONY : ReadData.obj
 
 # target to build an object file
-MyTextEdit.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.obj
-.PHONY : MyTextEdit.cpp.obj
+ReadData.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/ReadData.cpp.obj
+.PHONY : ReadData.cpp.obj
 
-MyTextEdit.i: MyTextEdit.cpp.i
-.PHONY : MyTextEdit.i
+ReadData.i: ReadData.cpp.i
+.PHONY : ReadData.i
 
 # target to preprocess a source file
-MyTextEdit.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.i
-.PHONY : MyTextEdit.cpp.i
+ReadData.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/ReadData.cpp.i
+.PHONY : ReadData.cpp.i
 
-MyTextEdit.s: MyTextEdit.cpp.s
-.PHONY : MyTextEdit.s
+ReadData.s: ReadData.cpp.s
+.PHONY : ReadData.s
 
 # target to generate assembly for a file
-MyTextEdit.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/MyTextEdit.cpp.s
-.PHONY : MyTextEdit.cpp.s
+ReadData.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/ReadData.cpp.s
+.PHONY : ReadData.cpp.s
+
+RecommendAnime.obj: RecommendAnime.cpp.obj
+.PHONY : RecommendAnime.obj
+
+# target to build an object file
+RecommendAnime.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.obj
+.PHONY : RecommendAnime.cpp.obj
+
+RecommendAnime.i: RecommendAnime.cpp.i
+.PHONY : RecommendAnime.i
+
+# target to preprocess a source file
+RecommendAnime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.i
+.PHONY : RecommendAnime.cpp.i
+
+RecommendAnime.s: RecommendAnime.cpp.s
+.PHONY : RecommendAnime.s
+
+# target to generate assembly for a file
+RecommendAnime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/RecommendAnime.cpp.s
+.PHONY : RecommendAnime.cpp.s
+
+anime.obj: anime.cpp.obj
+.PHONY : anime.obj
+
+# target to build an object file
+anime.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/anime.cpp.obj
+.PHONY : anime.cpp.obj
+
+anime.i: anime.cpp.i
+.PHONY : anime.i
+
+# target to preprocess a source file
+anime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/anime.cpp.i
+.PHONY : anime.cpp.i
+
+anime.s: anime.cpp.s
+.PHONY : anime.s
+
+# target to generate assembly for a file
+anime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AnimeDataProject.dir\build.make CMakeFiles/AnimeDataProject.dir/anime.cpp.s
+.PHONY : anime.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -250,9 +298,15 @@ help:
 	@echo ... AnimeDataProject_autogen/mocs_compilation.obj
 	@echo ... AnimeDataProject_autogen/mocs_compilation.i
 	@echo ... AnimeDataProject_autogen/mocs_compilation.s
-	@echo ... MyTextEdit.obj
-	@echo ... MyTextEdit.i
-	@echo ... MyTextEdit.s
+	@echo ... ReadData.obj
+	@echo ... ReadData.i
+	@echo ... ReadData.s
+	@echo ... RecommendAnime.obj
+	@echo ... RecommendAnime.i
+	@echo ... RecommendAnime.s
+	@echo ... anime.obj
+	@echo ... anime.i
+	@echo ... anime.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
